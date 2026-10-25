@@ -107,7 +107,7 @@ npm run dev
 ## 👥 6. Tác giả & Đóng góp (Credits)
 
 - **Dự án phát triển bởi:** Đội ngũ phát triển Meal Preparation Service.
-- **Thực hiện:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)):
+- **Thành viên đóng góp:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)):
   - Trực tiếp xây dựng và thiết kế trọn bộ **Manager Dashboard UI** trên Frontend.
   - Thiết kế bảng màu và theme hệ thống (*System color palette*), chuẩn hóa các màn hình quản trị.
   - Đóng góp vào cấu trúc N-Layer và tích hợp các API quản lý dịch vụ bữa ăn.
